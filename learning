@@ -1,0 +1,24 @@
+Supervised learning is a machine learning paradigm where an algorithm is trained on a labeled 
+dataset to predict outputs for unseen data. In this case study, we will cover the following 
+supervised learning algorithms.
+1. Linear Regression: Linear regression is a simple but powerful algorithm used to model 
+the relationship between a dependent variable and one or more independent variables. For 
+example, predicting the price of a house based on its size and location. 
+2. Logistic Regression: Logistic regression is used to model the probability of a binary 
+outcome based on one or more independent variables. For example, predicting whether a 
+customer will purchase a product or not based on their age, income, and gender. 
+3. Decision Tree: Decision trees are used to classify or predict outcomes by splitting data 
+into subsets based on the values of input features. For example, predicting whether a 
+customer will churn based on their age, income, and tenure. 
+4. Random Forest: A random forest is an ensemble of decision trees that improve accuracy 
+by aggregating the predictions of multiple models. For example, predicting the likelihood 
+of default on a loan based on a variety of demographic and financial data. 
+5. Support Vector Machine (SVM): SVM is used for binary classification by finding the 
+hyperplane that best separates the classes. For example, predicting whether a customer 
+will purchase a product or not based on their browsing history and demographics. 
+6. Naive Bayes: Naive Bayes is used for classification and is based on Bayes' theorem. For 
+example, predicting whether an email is spam or not based on its contents. 
+7. K-Nearest Neighbors (KNN): KNN is used for classification by finding the k-nearest 
+neighbors to a given data point and assigning the label that appears most frequently. For 
+example, predicting whether a customer will buy a product based on their shopping 
+history and browsing behavior.
